@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pierr\\source\\repos\\RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27B273A-AC0A-426B-93FA-535012D02F23}|RPG\\RPG.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27B273A-AC0A-426B-93FA-535012D02F23}|RPG\\RPG.csproj|solutionrelative:rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\economy\\loottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\economy\\loottable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8BACA93-8470-4434-B5D7-6B368F649BCD}|GameEditor\\GameEditor.csproj|c:\\users\\pierr\\source\\repos\\rpg\\gameeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8BACA93-8470-4434-B5D7-6B368F649BCD}|GameEditor\\GameEditor.csproj|solutionrelative:gameeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\economy\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\economy\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\equipementconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\equipementconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\itemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\itemconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\golemtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\golemtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\minestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\minestone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\minestoneconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\minestoneconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\economy\\combiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\economy\\combiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\data\\itemtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\data\\itemtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\entities\\equipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\entities\\equipement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\progressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\progressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\rewardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\rewardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|c:\\users\\pierr\\source\\repos\\rpg\\rpg-dll\\systems\\skillsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9994C02F-F143-4007-9A0C-E7CC41995150}|RPG-DLL\\RPG-DLL.csproj|solutionrelative:rpg-dll\\systems\\skillsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LootTable.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\LootTable.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Economy\\LootTable.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\LootTable.cs",
+              "RelativeToolTip": "RPG-DLL\\Economy\\LootTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:36:33.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MineStoneConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\MineStoneConverter.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\MineStoneConverter.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\MineStoneConverter.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\MineStoneConverter.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:43:02.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MineStone.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\MineStone.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\MineStone.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\MineStone.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\MineStone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:32:25.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Player.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\Player.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAkwBkBAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:31:10.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\Shop.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Economy\\Shop.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\Shop.cs",
+              "RelativeToolTip": "RPG-DLL\\Economy\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:36:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\ItemConverter.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\ItemConverter.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\ItemConverter.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\ItemConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:41:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipementConverter.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\EquipementConverter.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\EquipementConverter.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\EquipementConverter.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\EquipementConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T19:44:31.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG\\Program.cs",
+              "RelativeDocumentMoniker": "RPG\\Program.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG\\Program.cs",
+              "RelativeToolTip": "RPG\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAASwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:26:07.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GolemTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\GolemTemplate.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\GolemTemplate.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\GolemTemplate.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\GolemTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:37:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\GameEditor\\Program.cs",
+              "RelativeDocumentMoniker": "GameEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\GameEditor\\Program.cs",
+              "RelativeToolTip": "GameEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:37:03.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CombatSystem.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\CombatSystem.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\CombatSystem.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\CombatSystem.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\CombatSystem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:33:23.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Item.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:41:18.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\Inventory.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\Inventory.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\Inventory.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\Inventory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:45:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Monster.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\Monster.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Monster.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\Monster.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswI4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:31:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Combiner.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\Combiner.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Economy\\Combiner.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Economy\\Combiner.cs",
+              "RelativeToolTip": "RPG-DLL\\Economy\\Combiner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:36:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\GameDbContext.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\GameDbContext.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\GameDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:37:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\ItemTemplate.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Data\\ItemTemplate.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Data\\ItemTemplate.cs",
+              "RelativeToolTip": "RPG-DLL\\Data\\ItemTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:18:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\Stats.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\Stats.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\Stats.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\Stats.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvyMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:44:10.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Equipement.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Equipement.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\Equipement.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Equipement.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\Equipement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAMwBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:32:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Entities\\Skill.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Entities\\Skill.cs",
+              "RelativeToolTip": "RPG-DLL\\Entities\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:32:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProgressionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\ProgressionSystem.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\ProgressionSystem.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\ProgressionSystem.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\ProgressionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:35:56.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RewardSystem.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\RewardSystem.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\RewardSystem.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\RewardSystem.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\RewardSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:34:00.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SkillSystem.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\SkillSystem.cs",
+              "RelativeDocumentMoniker": "RPG-DLL\\Systems\\SkillSystem.cs",
+              "ToolTip": "C:\\Users\\pierr\\source\\repos\\RPG\\RPG-DLL\\Systems\\SkillSystem.cs",
+              "RelativeToolTip": "RPG-DLL\\Systems\\SkillSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:33:41.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

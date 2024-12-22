@@ -1,0 +1,86 @@
+{
+  "Name": "test",
+  "Id": 0,
+  "Level": 3,
+  "MaxHealth": 2020,
+  "ActiveSkills": [
+    {
+      "Name": "Coup de base",
+      "Stats": {
+        "Id": 0,
+        "Health": 0,
+        "Damage": 10,
+        "Defense": 0,
+        "LootRarityBonus": 0
+      },
+      "EffectType": 0
+    },
+    {
+      "Name": "Soin mineur",
+      "Stats": {
+        "Id": 0,
+        "Health": 20,
+        "Damage": 0,
+        "Defense": 0,
+        "LootRarityBonus": 0
+      },
+      "EffectType": 1
+    },
+    {
+      "Name": "Coup puissant",
+      "Stats": {
+        "Id": 0,
+        "Health": 0,
+        "Damage": 25,
+        "Defense": 0,
+        "LootRarityBonus": 0
+      },
+      "EffectType": 0
+    },
+    {
+      "Name": "Temp\u00EAte",
+      "Stats": {
+        "Id": 0,
+        "Health": 0,
+        "Damage": 60,
+        "Defense": 0,
+        "LootRarityBonus": 0
+      },
+      "EffectType": 0
+    }
+  ],
+  "Inventory": {
+    "Items": {},
+    "MineStones": {
+      "Damage rune": 1,
+      "LootRarityBonus rune": 1,
+      "LootRarityBonus rune": 1,
+      "Damage rune": 1,
+      "Defense rune": 2,
+      "Damage rune": 1,
+      "4 rune": 1,
+      "Health rune": 2,
+      "Health rune": 1,
+      "Health rune": 2,
+      "4 rune": 1,
+      "Defense rune": 1,
+      "Damage rune": 1
+    },
+    "Equipement": {
+      "Lame de vent": 1,
+      "Lame de vent": 2
+    }
+  },
+  "CurrentAscenscion": 0,
+  "PlayerStats": {
+    "Id": 0,
+    "Health": 2020,
+    "Damage": 115,
+    "Defense": 31,
+    "LootRarityBonus": 6
+  },
+  "EquippedWeapon": null,
+  "EquippedArmor": null,
+  "EquippedSkill": null,
+  "Experience": 0
+}

@@ -1,0 +1,12 @@
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.csproj.AssemblyReference.cache
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.AssemblyInfoInputs.cache
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.AssemblyInfo.cs
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.csproj.CoreCompileInputs.cache
+C:\Users\pierr\source\repos\RPG\RPG-DLL\bin\Debug\net8.0\RPG-DLL.deps.json
+C:\Users\pierr\source\repos\RPG\RPG-DLL\bin\Debug\net8.0\RPG-DLL.dll
+C:\Users\pierr\source\repos\RPG\RPG-DLL\bin\Debug\net8.0\RPG-DLL.pdb
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.dll
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\refint\RPG-DLL.dll
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\RPG-DLL.pdb
+C:\Users\pierr\source\repos\RPG\RPG-DLL\obj\Debug\net8.0\ref\RPG-DLL.dll

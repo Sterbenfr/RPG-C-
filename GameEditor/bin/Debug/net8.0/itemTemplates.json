@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "Lame de vent",
+    "Type": 0,
+    "Stats": {
+      "Id": 0,
+      "Health": 20,
+      "Damage": 50,
+      "Defense": 10,
+      "LootRarityBonus": 0
+    },
+    "Skill": {
+      "Name": "Temp\u00EAte",
+      "Stats": {
+        "Id": 0,
+        "Health": 0,
+        "Damage": 60,
+        "Defense": 0,
+        "LootRarityBonus": 0
+      },
+      "EffectType": 0
+    }
+  },
+  {
+    "Name": "Healing ",
+    "Type": 2,
+    "Stats": {
+      "Id": 0,
+      "Health": 100,
+      "Damage": 0,
+      "Defense": 0,
+      "LootRarityBonus": 0
+    },
+    "Skill": null
+  },
+  {
+    "Name": "Armor",
+    "Type": 2,
+    "Stats": {
+      "Id": 0,
+      "Health": 0,
+      "Damage": 0,
+      "Defense": 20,
+      "LootRarityBonus": 0
+    },
+    "Skill": null
+  }
+]
